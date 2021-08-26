@@ -1,3 +1,9 @@
+html {
+    margin: 0 !important;
+    box-sizing: border-box !important;
+    overflow-x: hidden !important;
+}
+
 .text-platzi {
     color: #97c93e !important;
 }
